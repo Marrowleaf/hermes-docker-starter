@@ -1,9 +1,33 @@
-# ---
+# 🔧 hermes-docker-starter
 
---- name: docker-starter description: Generate docker-compose.yml from natural language, use templates for common stacks, and manage environments with one command 
+A [Hermes Agent](https://hermes-agent.nousresearch.com/) skill for **docker-starter** (devops category).
 
-Part of the [Hermes Agent](https://github.com/Marrowleaf/hermes-agent) skill ecosystem.
+## Installation
+
+```bash
+cd ~/.hermes/skills/devops
+git clone https://github.com/Marrowleaf/hermes-docker-starter.git docker-starter
+```
+
+## Usage
+
+Once installed, this skill is automatically detected by Hermes Agent.
+
+```
+skill_view(name="docker-starter")
+```
+
+## Structure
+
+- `SKILL.md` — Full documentation
+- `references/` — Reference materials
+- `scripts/` — Utility scripts
+- `templates/` — Templates
 
 ## License
 
-MIT License - Copyright (c) 2026 James Durrant
+MIT — see [LICENSE](LICENSE)
+
+---
+
+Built with ❤️ by [James Durrant](https://github.com/Marrowleaf)
