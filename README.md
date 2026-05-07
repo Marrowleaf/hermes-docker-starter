@@ -31,3 +31,7 @@ MIT — see [LICENSE](LICENSE)
 ---
 
 Built with ❤️ by [James Durrant](https://github.com/Marrowleaf)
+
+## Related Hermes Skills
+- [hermes-cron-visualizer](https://github.com/Marrowleaf/hermes-cron-visualizer) — Cron schedule visualization
+- [hermes-skill-health](https://github.com/Marrowleaf/hermes-skill-health) — Skill health monitoring and diagnostics
